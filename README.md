@@ -38,18 +38,11 @@ To use the Face Detector project, follow these steps:
    live-server
    ```
 
-   The application should now be accessible at `http://127.0.0.1:8080/index.html`. Open this link in your web browser.
+   The application should now be accessible at `http://127.0.0.1:5500/index.html`. Open this link in your web browser.
 
 6. **Detecting Faces:** Once the application is open in your web browser, you can upload an image from your local machine using the "Choose File" button. After selecting the image, click on the "Detect Faces" button. The application will use the Face-API.js library to analyze the image and draw bounding boxes around detected faces.
 
 7. **Additional Features:** Depending on your project's requirements, you can further enhance the application by adding more features using the capabilities of the Face-API.js library, such as facial landmark detection, age and gender prediction, emotion detection, and more. Refer to the library documentation for details.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to open an issue or submit a pull request on the GitHub repository. Your feedback and contributions are highly appreciated!
-
----
-
-Thank you for using the Face Detector project! If you have any questions or need assistance, feel free to reach out to us through our GitHub repository or email. Happy face detecting!
-
-Created by Swikrit Shukla - All rights reserved.
+## Author
+- Sultan Basit
